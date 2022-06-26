@@ -74,7 +74,7 @@ os símbolos %d e %c. Como a seguir: */
 
 /*Os símbolos %d, %f e %s são utilizados para compor a frase que a função printf() vai exibir na tela */
 
-
+ 
 		
 	
 	return 0;
